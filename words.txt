@@ -1,0 +1,5 @@
+Programming, or writing programs, is a highly creative and fulfilling endeavor. There are numerous reasons to write programs, whether it's for earning a living, tackling a challenging data analysis issue, enjoying yourself, or assisting someone in solving a problem. This book posits that {\em everyone} should learn to program, and once you acquire this skill, you'll discover how to apply it in ways that interest you.
+
+In our everyday lives, we are surrounded by computers, from laptops to smartphones. We can view these devices as personal assistants that can manage various tasks for us. The hardware in modern computers is designed to constantly pose the question, "What would you like me to do next?"
+
+Our computers are incredibly fast and possess large amounts of memory, making them potentially very useful if we understand the language needed to communicate our requests. By mastering this language, we could instruct the computer to perform repetitive tasks on our behalf. Interestingly, the types of tasks that computers excel at are often those that we humans find tedious and monotonous.
